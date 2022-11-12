@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>nadege.html</title>
+</head>
+<body>
+
+<h1>THIS IS NADEGE WEBSITE</h1>
+<p>WELCOME TO EVERYONE ON MY NEW WEBSITE.</p>
+
+</body>
+</html>
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+  background-color: lightgreen;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+}
+
+p {
+  font-family: verdana;
+  font-size: 20px;
+}
+</style>
+</head>
+<body>
+
+<h1>My First Commit </h1>
+<p>About commit on Nadege page.</p>
+
+</body>
+</html>
+
+<p>
+# first commit
+<br>
+git init
+<br>
+git touch index.html
+<br>
+git add index.html
+<br>
+git commit -m "basic website"
+
