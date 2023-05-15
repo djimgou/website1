@@ -5,8 +5,8 @@
 </head>
 <body>
 
-<h1>THIS IS NADEGE WEBSITE</h1>
-<p>WELCOME TO EVERYONE ON MY NEW WEBSITE.</p>
+<h1> THIS IS NADEGE WEBSITE </h1>
+<p> WELCOME TO EVERYONE ON MY NEW WEBSITE.</p>
 
 </body>
 </html>
